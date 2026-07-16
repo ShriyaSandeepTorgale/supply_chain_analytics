@@ -112,6 +112,29 @@ departments ─────────────┘
 
 ---
 
+## 📈 Key Findings
+
+### 1. Delivery Performance
+![Delivery Analysis](images/delivery_analysis.png)
+- 59% of orders carry late delivery risk
+- Standard Class has highest late delivery rate despite being most used
+
+### 2. Sales Trend Over Time  
+![Time Trends](images/time_trends.png)
+- Order volume grew steadily 2015–2017 before declining in 2018
+
+### 3. Regional Market Performance
+![Regional Analysis](images/regional_analysis.png)
+- LATAM generates highest revenue but also has high late delivery rates
+
+### 4. Customer Segments
+![Customer Analysis](images/customer_analysis.png)
+- Consumer segment dominates both order count and revenue
+
+### 5. Product Profitability
+![Product Profitability](images/product_profitability.png)
+- Higher discount rates strongly correlate with negative profit ratios
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
